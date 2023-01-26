@@ -1,20 +1,6 @@
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- Preview the optimal layout for the website depending on the device screen size
-- See hover states for all interactive elements on the page
-
-### Screenshot
-
-![](./screenshots/screenshotdesktop.png)
-![](./screenshots/screenshotmobile.png)
-
-
-## My process
 
 ### Built with
 
