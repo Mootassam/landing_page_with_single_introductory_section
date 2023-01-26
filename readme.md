@@ -1,17 +1,3 @@
-- Site ativo [Click here to see the webpage](https://adrianoescarabote.github.io/huddle-landing-page-with-single-introductory-section/)
-
-# Frontend Mentor - Huddle landing page with single introductory section solution
-
-Esta é uma solução para o [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -19,8 +5,8 @@ Esta é uma solução para o [Huddle landing page with single introductory secti
 
 Users should be able to:
 
-- Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
+- Preview the optimal layout for the website depending on the device screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshot
 
@@ -40,6 +26,4 @@ Users should be able to:
 
 ## Author
 
-- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/adriano-escarabote-944b02233/)
-- Frontend Mentor - [@AdrianoEscarabote](https://www.frontendmentor.io/profile/AdrianoEscarabote)
-- Instagram - [@ogdrian](https://www.instagram.com/ogdrian/)
+- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/mootassam-boughdiri-06588b196/)
